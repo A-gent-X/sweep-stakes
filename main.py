@@ -1,4 +1,3 @@
-from data import Queue
-from data-S import Stack
+from data-queue import Queue
+from data-stack import Stack
 
-data

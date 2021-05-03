@@ -8,11 +8,11 @@ class contestant_Class:
 
 
     def create_information_list(self):
-        first_name = input("provide first name for records\n")
-        last_name = input("provide first name for records\n")
-        address = input("provide first name for records\n")
-        email = input("provide first name for records\n")
-        registation_num = input("provide first name for records\n")
+        first_name = input("\nprovide first name for records\n")
+        last_name = input("\nprovide first name for records\n")
+        address = input("\nprovide first name for records\n")
+        email = input("\nprovide first name for records\n")
+        registation_num = input("\nprovide first name for records\n")
         print(first_name, last_name, address, email, registation_num)
 
 
